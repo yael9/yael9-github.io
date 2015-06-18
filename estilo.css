@@ -11,5 +11,11 @@ h1
 
 p 
 {
-	color: rgb(19, 49, 123);
+	color: rgb(240, 194, 98);
+}
+
+img
+{
+	width: 200px;
+	height: 200px;
 }
